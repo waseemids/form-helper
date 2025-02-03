@@ -1,7 +1,7 @@
 <?php
 namespace SoampliApps\FormHelper\Data;
 
-class CentralAppsMethodModelAdapter extends FormData
+class SoampliAppsMethodModelAdapter extends FormData
 {
 	// TODO: implement
 
